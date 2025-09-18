@@ -48,3 +48,10 @@ CLASS Electronic
    - **Cari Data:** Masukkan ID → tampilkan detail jika ditemukan.  
    - **Keluar:** Hentikan loop.  
 5. **Pengulangan:** Setelah operasi selesai, kembali ke menu utama.
+
+Di semua versi (C++, Java, Python, dan PHP), program dibagi menjadi dua bagian utama. File main berisi 
+fungsi-fungsi inti seperti tambah, lihat, ubah, hapus, dan cari yang bertugas menangani logika program dan interaksi menu dengan pengguna. 
+Sementara itu, file Electronic mendefinisikan class yang menjadi blueprint untuk setiap objek barang, lengkap dengan 
+fungsi setter (seperti setName dan setPrice) untuk mengubah data privat secara aman.
+
+
