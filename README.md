@@ -61,7 +61,12 @@ akan ter-reset setiap kali program ditutup dan dibuka kembali.
 
 # Dokumentasi
 
-![Screenshot](Dokumentasi/ss/Screenshot%202025-09-18%20215856.png)
-| ![SS1](Dokumentasi/ss/Screenshot%202025-09-18%20220035.png) | ![SS2](Dokumentasi/ss/Screenshot%202025-09-18%20220046.png) |
+## Dokumentasi
+
+<img src="Dokumentasi/ss/Screenshot%202025-09-18%20215856.png" width="400">
+
+| <img src="Dokumentasi/ss/Screenshot%202025-09-18%20220035.png" width="300"> | <img src="Dokumentasi/ss/Screenshot%202025-09-18%20220046.png" width="300"> |
+|---------------------------------------------|---------------------------------------------|
+
 
 
