@@ -9,6 +9,7 @@ dalam mata kuliah Desain dan Pemograman Berorientasi Objek untuk keberkahanNya m
 
 
 ### CLASS Electronic
+```
 CLASS Electronic
 │
 ├── ATTRIBUTES (Private)
@@ -33,7 +34,7 @@ CLASS Electronic
 ├── setType(type: string): void
 ├── setPrice(price: double): void
 └── setImagePath(imagePath: string): void
-
+```
 
 ## Alur Program
 1. **Inisialisasi:** Siapkan array/list untuk inventaris dan ID awal.  
