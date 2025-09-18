@@ -54,4 +54,9 @@ fungsi-fungsi inti seperti tambah, lihat, ubah, hapus, dan cari yang bertugas me
 Sementara itu, file Electronic mendefinisikan class yang menjadi blueprint untuk setiap objek barang, lengkap dengan 
 fungsi setter (seperti setName dan setPrice) untuk mengubah data privat secara aman.
 
+Fitur pembeda utama terdapat pada versi PHP, yang menggunakan $_SESSION untuk menyimpan data inventaris.
+Hal ini memberikan persistensi data selama sesi command-line berjalan, artinya data tidak akan hilang jika program
+dijalankan beberapa kali dalam satu sesi terminal yang sama, berbeda dengan versi C++, Java, dan Python yang datanya 
+akan ter-reset setiap kali program ditutup dan dibuka kembali.
 
+https://github.com/reppapi/TP1DPBO2425C2/tree/main/Dokumentasi/ss
