@@ -61,18 +61,12 @@ akan ter-reset setiap kali program ditutup dan dibuka kembali.
 
 ## Dokumentasi Screenshot
 
-<img src="Dokumentasi/ss/Screenshot%202025-09-18%20215856.png" width="400">
-
-<img src="Dokumentasi/ss/Screenshot%202025-09-18%20215909.png" width="400">
-
-| <img src="Dokumentasi/ss/Screenshot%202025-09-18%20220035.png" width="300"> | <img src="Dokumentasi/ss/Screenshot%202025-09-18%20220046.png" width="300"> |
+| <img src="Dokumentasi/ss/Screenshot%202025-09-18%20215856.png" width="300"> | <img src="Dokumentasi/ss/Screenshot%202025-09-18%20215909.png" width="300"> |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| <img src="Dokumentasi/ss/Screenshot%202025-09-18%20220035.png" width="300"> | <img src="Dokumentasi/ss/Screenshot%202025-09-18%20220046.png" width="300"> |
+| <img src="Dokumentasi/ss/Screenshot%202025-09-18%20220120.png" width="300"> | <img src="Dokumentasi/ss/Screenshot%202025-09-18%20220145.png" width="300"> |
+| <img src="Dokumentasi/ss/Screenshot%202025-09-18%20220154.png" width="300"> |                                                                             |
 
-<img src="Dokumentasi/ss/Screenshot%202025-09-18%20220120.png" width="400">
-
-<img src="Dokumentasi/ss/Screenshot%202025-09-18%20220145.png" width="400">
-
-<img src="Dokumentasi/ss/Screenshot%202025-09-18%20220154.png" width="400">
 
 
 | <img src="Dokumentasi/ss/Screenshot%202025-09-18%20220035.png" width="300"> | <img src="Dokumentasi/ss/Screenshot%202025-09-18%20220046.png" width="300"> |
