@@ -61,6 +61,7 @@ akan ter-reset setiap kali program ditutup dan dibuka kembali.
 
 # Dokumentasi
 
-![Tampilan Aplikasi](Dokumentasi/ss/Screenshot%202025-09-18%20215657.png)
+![Screenshot](Dokumentasi/ss/Screenshot%202025-09-18%20215856.png)
+| ![SS1](Dokumentasi/ss/Screenshot%202025-09-18%20220035.png) | ![SS2](Dokumentasi/ss/Screenshot%202025-09-18%20220046.png) |
 
 
