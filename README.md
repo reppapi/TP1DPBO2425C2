@@ -59,5 +59,8 @@ Hal ini memberikan persistensi data selama sesi command-line berjalan, artinya d
 dijalankan beberapa kali dalam satu sesi terminal yang sama, berbeda dengan versi C++, Java, dan Python yang datanya 
 akan ter-reset setiap kali program ditutup dan dibuka kembali.
 
-![SS](Dokumentasi/ss/Screenshot%202025-09-18%20215617.png)
+# Dokumentasi
+
+![Tampilan Aplikasi](Dokumentasi/ss/Screenshot%202025-09-18%20215657.png)
+
 
